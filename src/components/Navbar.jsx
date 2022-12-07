@@ -1,4 +1,4 @@
-import { Box, Button, Divider, Flex, Heading } from "@chakra-ui/react";
+import { Box, Button, Divider, Flex } from "@chakra-ui/react";
 import React from "react";
 
 const Navbar = ({handleClick}) => {
